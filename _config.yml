@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Summer Blanco"
 title_separator          : "-"
 name                     : &name "Summer Blanco"
-description              : &description "2nd year PhD student at the University of Georgia studying flower color evolution in Geranium"
+description              : &description "2nd year PhD student at the University of Georgia"
 url                      : https://mellamosummer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mellamosummer/mellamosummer.github.io"
@@ -244,7 +244,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
- 
   # _resources
     - scope:
         path: ""
