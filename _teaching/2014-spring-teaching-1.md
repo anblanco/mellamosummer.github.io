@@ -7,13 +7,5 @@ date: 2022-08-01
 location: "Athens, GA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Graduate learning assistant & Instructor of record.
+Course Description:	Microbial diversity and physiology; plant and animal diversity, growth, reproduction and physiology; ecology.
