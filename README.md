@@ -1,1 +1,2 @@
-#I am a plant evolutionary biologist studying in color variation of sexual organs.
+#I am currently pursuing my Ph.D. in Plant Biology at the University of Georgia, Athens. 
+#Cal Poly Pomona Alumni — Biology, Botany option B.S.
